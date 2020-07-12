@@ -1,5 +1,6 @@
 # Classifying song genre from audio data
 
+This is a guided project from Datacamp.
 Using a dataset comprising of songs of two music genres (Hip-Hop and Rock),
 the task is to train a classifier to distinguish between the two genres based only on track information derived from Echonest (now part of Spotify);
 Making use of pandas and seaborn packages in Python for subsetting the data, aggregating information, and creating plots during EDA.
